@@ -12,7 +12,9 @@ Desenvolver um WebAPI que possibilite ao usuário automatizar a criação de uma
 - **Perguntas**
     - Como podemos assegurar que o usuário vai usar o user no formato correto?
     - Como podemos garantir que o usuário vai estar satisfeito com o formato da carta?
-    - Como podemos garantir que o usuário não irá ficar irritado com possíveis erros comentidos pelo modelo?---
+    - Como podemos garantir que o usuário não irá ficar irritado com possíveis erros comentidos pelo modelo?
+
+---
 
 ## Mapa
 
