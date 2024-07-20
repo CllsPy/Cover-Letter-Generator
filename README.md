@@ -15,9 +15,7 @@ Desenvolver um WebAPI que possibilite ao usuário automatizar a criação de uma
 - Como podemos garantir que o usuário não irá ficar irritado com possíveis erros comentidos pelo modelo?
 
 ## Mapa
-
-![image](What are the benefits of using Langchain compared to just applying the code that is within the OpenAIs documentation?)
-
+![image](https://github.com/user-attachments/assets/1d3f5ce2-60ba-40dd-9da4-e5cbc66b7c37)
 
 ## Opinião dos especialistas
 
