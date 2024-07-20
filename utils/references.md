@@ -16,3 +16,5 @@ I am excited about the job because {job_desc}.
 I am passionate about {passion}.
 """
 ```
+
+[Notebook](https://colab.research.google.com/drive/1STxIGCeRW1-Jy72O_HJuQ-S2Sxm6TWHI#scrollTo=wKtMYBinzDIR&uniqifier=1)
