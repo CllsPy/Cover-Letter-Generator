@@ -6,6 +6,8 @@
 4. [LLM Models with Hugging Face and Langchain Library](LLM Models with Hugging Face and Langchain Library)
 
 ## Prompt
+
+```
 prompt_template = """
 Write a cover letter to {contact_person}
 from {your_name} for a {role} job at {company_name}.
@@ -13,3 +15,4 @@ I have experience in {personal_exp}.
 I am excited about the job because {job_desc}.
 I am passionate about {passion}.
 """
+```
