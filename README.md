@@ -19,3 +19,5 @@ Desenvolver um WebAPI que possibilite ao usuário automatizar a criação de uma
 
 ## Referências
 
+- CP: Realizar o Web Scrap dos dados contidos no Github?
+- CP: Predefinir um prompt para gerar a carta de apresentação?
