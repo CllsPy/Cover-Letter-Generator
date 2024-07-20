@@ -7,6 +7,7 @@ Desenvolver um WebAPI que possibilite ao usuário automatizar a criação de uma
 - O usuário pode não saber qual seu user do Github
 - O usuário pode não ficar satisfeito com o formato do documento e/ou com a estrutura dele
 - O usuário pode ficar irritado com erros
+- O modelo é pesado e/ou ineficiente
 
 **Perguntas**
 - Como podemos assegurar que o usuário vai usar o user no formato correto?
