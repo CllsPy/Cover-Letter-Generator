@@ -37,3 +37,4 @@ Desenvolver uma **WebAPI** que possibilite ao usuário automatizar a criação d
 - [Exploring LLM Models with Hugging Face and Langchain Library on Google Colab: A Comprehensive Guide](https://medium.com/@givkashi/exploring-llm-models-with-hugging-face-and-langchain-library-on-google-colab-a-comprehensive-guide-4994e7ed5c06)
 - [Cover Letter LLM Generator](https://github.com/DoubleGremlin181/cover-letter-llm)
 - [coverletter-generator](https://github.com/jrpettus/coverletter-generator/tree/main)
+- [Automate Your Cover Letter Writing with Large Language models: Building a Cover Letter Generator with Replicate and Streamlit](https://medium.com/@mohamedelkhames.boumaiza/automate-your-cover-letter-writing-with-large-language-models-building-a-cover-letter-generator-08a284905bab)
