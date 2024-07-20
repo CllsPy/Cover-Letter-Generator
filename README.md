@@ -17,6 +17,5 @@ Desenvolver um WebAPI que possibilite ao usuário automatizar a criação de uma
 
 ![image](https://github.com/user-attachments/assets/c7ecf0f1-c454-4250-86e6-c2c9b2e3cb01)
 
+## Referências
 
-
-# [PHATHON](https://github.com/CllsPy/Personal-Hackathon/blob/main/README.md)
