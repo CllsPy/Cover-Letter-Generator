@@ -22,7 +22,11 @@ Desenvolver um WebAPI que possibilite ao usuário automatizar a criação de uma
 ## Referências
 
 - CP: Realizar o Web Scrap dos dados contidos no Github?
-- CP: Predefinir um prompt para gerar a carta de apresentação?
+**- CP: Predefinir um prompt para gerar a carta de apresentação?**
 
+  
 ## Alvo
 ![image](https://github.com/user-attachments/assets/5912155b-3710-4387-a904-f09e12e777c1)
+
+## Inspiração
+- [Exploring LLM Models with Hugging Face and Langchain Library on Google Colab: A Comprehensive Guide](Exploring LLM Models with Hugging Face and Langchain Library on Google Colab: A Comprehensive Guide)
