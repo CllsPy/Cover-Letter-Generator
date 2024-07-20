@@ -29,5 +29,6 @@ Desenvolver uma **WebAPI** que possibilite ao usuário automatizar a criação d
 ## 🎯 **Alvo**
 ![Alvo](https://github.com/user-attachments/assets/5912155b-3710-4387-a904-f09e12e777c1)
 
-## 💡 **Inspirações**
-[Exploring LLM Models with Hugging Face and Langchain Library on Google Colab: A Comprehensive Guide](https://medium.com/@givkashi/exploring-llm-models-with-hugging-face-and-langchain-library-on-google-colab-a-comprehensive-guide-4994e7ed5c06)
+# 💡 **Inspirações**
+- [Exploring LLM Models with Hugging Face and Langchain Library on Google Colab: A Comprehensive Guide](https://medium.com/@givkashi/exploring-llm-models-with-hugging-face-and-langchain-library-on-google-colab-a-comprehensive-guide-4994e7ed5c06)
+- [Cover Letter LLM Generator](https://github.com/DoubleGremlin181/cover-letter-llm)
