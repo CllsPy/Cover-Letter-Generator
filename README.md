@@ -26,7 +26,7 @@ Desenvolver um WebAPI que possibilite ao usuário automatizar a criação de uma
 - CP: **Predefinir um prompt para gerar a carta de apresentação?**
 
 **Answers**
-[What is Langchain](https://www.reddit.com/r/LangChain/comments/12r5y1g/what_are_the_benefits_of_using_langchain_compared/?rdt=46174&onetap_auto=true&one_tap=true)
+- [What is Langchain](https://www.reddit.com/r/LangChain/comments/12r5y1g/what_are_the_benefits_of_using_langchain_compared/?rdt=46174&onetap_auto=true&one_tap=true)
 
   
 ## Alvo
