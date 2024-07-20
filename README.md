@@ -21,10 +21,12 @@ Desenvolver um WebAPI que possibilite ao usuário automatizar a criação de uma
 
 ## Opinião dos especialistas
 
-[What is Langchain](https://www.reddit.com/r/LangChain/comments/12r5y1g/what_are_the_benefits_of_using_langchain_compared/?rdt=46174&onetap_auto=true&one_tap=true)
-
+**Questions**
 - CP: Realizar o Web Scrap dos dados contidos no Github?
 - CP: **Predefinir um prompt para gerar a carta de apresentação?**
+
+**Answers**
+[What is Langchain](https://www.reddit.com/r/LangChain/comments/12r5y1g/what_are_the_benefits_of_using_langchain_compared/?rdt=46174&onetap_auto=true&one_tap=true)
 
   
 ## Alvo
