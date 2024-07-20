@@ -16,7 +16,8 @@ Desenvolver um WebAPI que possibilite ao usuário automatizar a criação de uma
 
 ## Mapa
 
-![image](https://github.com/user-attachments/assets/c7ecf0f1-c454-4250-86e6-c2c9b2e3cb01)
+![image](https://github.com/user-attachments/assets/f8893185-13ea-4ae6-9bfb-af64b108281c)
+
 
 ## Referências
 
@@ -24,3 +25,4 @@ Desenvolver um WebAPI que possibilite ao usuário automatizar a criação de uma
 - CP: Predefinir um prompt para gerar a carta de apresentação?
 
 ## Alvo
+![image](https://github.com/user-attachments/assets/5912155b-3710-4387-a904-f09e12e777c1)
