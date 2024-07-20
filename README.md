@@ -21,6 +21,8 @@ Desenvolver um WebAPI que possibilite ao usuário automatizar a criação de uma
 
 ## Opinião dos especialistas
 
+- [What is Langchain](https://aws.amazon.com/fr/what-is/langchain/#:~:text=LangChain%20simplifies%20artificial%20intelligence%20(AI,to%20build%20complex%20applications%20quickly.)
+
 - CP: Realizar o Web Scrap dos dados contidos no Github?
 - CP: **Predefinir um prompt para gerar a carta de apresentação?**
 
