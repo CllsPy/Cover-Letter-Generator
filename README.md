@@ -16,12 +16,12 @@ Desenvolver um WebAPI que possibilite ao usuário automatizar a criação de uma
 
 ## Mapa
 
-![image](https://github.com/user-attachments/assets/f8893185-13ea-4ae6-9bfb-af64b108281c)
+![image](What are the benefits of using Langchain compared to just applying the code that is within the OpenAIs documentation?)
 
 
 ## Opinião dos especialistas
 
-- [What is Langchain](https://aws.amazon.com/fr/what-is/langchain/#:~:text=LangChain%20simplifies%20artificial%20intelligence%20(AI,to%20build%20complex%20applications%20quickly.)
+[What is Langchain](https://www.reddit.com/r/LangChain/comments/12r5y1g/what_are_the_benefits_of_using_langchain_compared/?rdt=46174&onetap_auto=true&one_tap=true)
 
 - CP: Realizar o Web Scrap dos dados contidos no Github?
 - CP: **Predefinir um prompt para gerar a carta de apresentação?**
