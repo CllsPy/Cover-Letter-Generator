@@ -19,7 +19,7 @@ Desenvolver um WebAPI que possibilite ao usuário automatizar a criação de uma
 ![image](https://github.com/user-attachments/assets/f8893185-13ea-4ae6-9bfb-af64b108281c)
 
 
-## Referências
+## Opinião dos especialistas
 
 - CP: Realizar o Web Scrap dos dados contidos no Github?
 - CP: **Predefinir um prompt para gerar a carta de apresentação?**
