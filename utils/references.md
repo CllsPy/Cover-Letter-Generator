@@ -5,6 +5,7 @@
 3. [Login with HuggingFace on Colabs](https://discuss.huggingface.co/t/google-colab-hub-login/21853)
 4. [SmoLM](https://huggingface.co/HuggingFaceTB/SmolLM-1.7B-Instruct?text=write+a+poem)
 5. [Understanding Prompt Templates in LangChain](https://medium.com/@punya8147_26846/understanding-prompt-templates-in-langchain-f714cd7ab380)
+6. [LLM Models with Hugging Face and Langchain Library](https://www.kaggle.com/code/givkashi/llm-models-with-hugging-face-and-langchain-library)
 
 ## Prompt
 
